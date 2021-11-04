@@ -61,7 +61,7 @@ ul{padding:0;}
         top:40%;
         left:50%;
         transform:translate(-50%,-40%);
-        max-width:40vw;
+        max-width:48vw;
         max-height:60vh;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
